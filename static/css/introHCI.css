@@ -34,6 +34,7 @@ body {
 }
 .project p {
   font-variant: small-caps;
+  text-align: center;
 }
 .project {
   background-color: #f5ae75;
